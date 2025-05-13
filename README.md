@@ -2,7 +2,6 @@
 
 I’m **Tran Dang** (Preferred: Dang), a postgraduate student in Information & Communication Engineering 🚀  
 🔭 Currently working on data engineering, packet-capture libraries (libpcap, PcapPlusPlus, PF_RING) and enhancing TCP/UDP throughput tools  
-🌱 Learning to build speech-to-text GUIs with Streamlit, speaker diarization, and FFmpeg support  
 👯 Looking to collaborate on open-source networking tools, ML-based prediction, and data-related projects  
 💬 Ask me about packet capture, network benchmarking, machine learning, and audio processing  
 📫 How to reach me: [Email](mailto:quocdangtran.work@gmail.com)  
