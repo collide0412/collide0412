@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I’m **Tran Quoc Dang** (Preferred: Dang), a postgraduate student in Information & Communication Engineering 🚀  
+I’m **Tran Dang** (Preferred: Dang), a postgraduate student in Information & Communication Engineering 🚀  
 🔭 Currently working on data engineering, packet-capture libraries (libpcap, PcapPlusPlus, PF_RING) and enhancing TCP/UDP throughput tools  
 🌱 Learning to build speech-to-text GUIs with Streamlit, speaker diarization, and FFmpeg support  
 👯 Looking to collaborate on open-source networking tools, ML-based stock prediction, and audio processing projects  
