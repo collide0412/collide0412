@@ -13,7 +13,7 @@
 - 🌱 I’m **learning** to build Streamlit GUIs for speech‑to‑text with speaker diarization and FFmpeg support  
 - 👯 I’m **looking to collaborate** on open‑source networking tools, ML‑based audio processing, and AI stock‑prediction engines  
 - 💬 Ask me about packet capture, network benchmarking, machine learning, and audio‑processing pipelines  
-- ⚡ Fun fact: Having an iPad Pro M1 + Apple Pencil setup to sketch out UI prototypes for my research tools  
+- ⚡ Fun fact: Having an iPad Pro M1 + Apple Pencil 2 setup to sketch out UI prototypes for my research tools  
 
 ---
 
@@ -22,7 +22,7 @@
   <a href="https://linkedin.com/in/dang" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="mailto:dang@example.com" target="blank">
+  <a href="mailto:quocdangtran.work@gmail.com" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/mail.svg" alt="Email" height="30" width="40" />
   </a>
 </p>
