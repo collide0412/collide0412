@@ -9,10 +9,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=collide0412&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> </p>
 
-- 🔭 I’m **currently benchmarking** packet-capture libraries (libpcap, PcapPlusPlus, PF_RING) and optimizing throughput with C++ TCP/UDP tools  
-- 🌱 I’m **learning** to build Streamlit GUIs for speech‑to‑text with speaker diarization and FFmpeg support  
-- 👯 I’m **looking to collaborate** on open‑source networking tools, ML‑based audio processing, and AI stock‑prediction engines  
-- 💬 Ask me about packet capture, network benchmarking, machine learning, and audio‑processing pipelines  
+- 🔭 I’m **currently focusing** on data analytics/engineering and ML-based projects
+- 🌱 I’m **learning** to packet-capturing and optimizing throughput with C++ TCP/UDP tools 
+- 👯 I’m **looking to collaborate** on open‑source tools, ML‑based data processing, and AI engines  
+- 💬 Ask me about packet capture, network benchmarking, machine learning, and data processing pipelines  
 - ⚡ Fun fact: Having an iPad Pro M1 + Apple Pencil 2 setup to sketch out UI prototypes for my research tools  
 
 ---
@@ -29,8 +29,8 @@
 
 <h2 align="center">🛠️ Technologies & Tools</h2>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,streamlit,ffmpeg,linux,git" /><br>
-  <img src="https://skillicons.dev/icons?i=libpcap,pfring,scapy,docker,linux" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,streamlit,linux,git" /><br>
+  <img src="https://skillicons.dev/icons?i=docker,linux" />
 </div>
 
 <p><img width="48%" src="https://github-readme-stats.vercel.app/api?username=collide0412&show_icons=true&theme=default" alt="GitHub Stats" /></p>
