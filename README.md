@@ -1,4 +1,3 @@
-[![MasterHead](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)](https://portfolio-one-plum-89.vercel.app/)
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=80&duration=4000&lines=Hi+there!+👋;+I'm+Tran+Quoc+Dang!;" />
@@ -21,9 +20,6 @@
 <p align="left">
   <a href="https://linkedin.com/in/dang" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="mailto:quocdangtran.work@gmail.com" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/mail.svg" alt="Email" height="30" width="40" />
   </a>
 </p>
 
