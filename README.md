@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=80&duration=4000&lines=Hi+there!+👋;+I'm+Tran+Quoc+Dang!;" />
 </h1>
 
-<h3 align="center">🎓 Vietnamese-based Postgraduate Student in Information & Communication Engineering major, currently in South Korea, </h3>
+<h3 align="center">🎓 Vietnamese-based Postgraduate Student in Information & Communication Engineering major, currently in South Korea </h3>
 <img align="right" alt="Coding" width="300" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=collide0412&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> </p>
