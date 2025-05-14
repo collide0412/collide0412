@@ -29,7 +29,7 @@
 
 <h2 align="center">🛠️ Technologies & Tools</h2>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,streamlit,linux,git" /><br>
+  <img src="https://skillicons.dev/icons?i=python,cpp,git" /><br>
   <img src="https://skillicons.dev/icons?i=docker,linux" />
 </div>
 
