@@ -11,8 +11,7 @@
 - 🔭 I’m **currently focusing** on data analytics/engineering and ML-based projects
 - 🌱 I’m **learning** to packet-capturing and optimizing throughput with C++ TCP/UDP tools 
 - 👯 I’m **looking to collaborate** on open‑source tools, ML‑based data processing, and AI engines  
-- 💬 Ask me about packet capture, network benchmarking, machine learning, and data processing pipelines  
-- ⚡ Fun fact: Having an iPad Pro M1 + Apple Pencil 2 setup to sketch out UI prototypes for my research tools  
+- 💬 Ask me about packet capture, network benchmarking, machine learning, and data processing pipelines 
 
 ---
 
